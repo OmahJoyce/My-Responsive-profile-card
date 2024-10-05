@@ -10,7 +10,7 @@
 <body>
   <div class="profile-card">
     <div class="profile-img">
-      <img src="/3MTT monthly reflection/image/pic1.jpg" alt="Profile Image" width="300px" height="300vw"
+      <img src="Snapchat-1553188751.jpg" alt="Profile Image" width="300px" height="300vw"
     </div>
     <div class="profile-info">
       <h2>Ukpabi Joy</h2>
